@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(130, 171, 189);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chokela{
+    width: 39%;;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+    
+    
+    
+    
+}
+.good{
+    background-color: blue;
+    
+
+}
+.evil{
+    background-color: rgb(130, 171, 189);
+}
+
+.aaa{
+    background-color: chartreuse;
+}
+
+.bruh{
+    background-color: rgb(214, 138, 214);
+}
